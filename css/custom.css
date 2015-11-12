@@ -11,6 +11,7 @@ body {
     background-size: auto;
 }
 
+.container {margin-bottom: 80px;}
 .fixed-header-box {position: relative;z-index: 10;margin: 0 auto;max-width: 1200px;}
 
 .fixed-header-box .logo-wrapper {display: table-cell;vertical-align: bottom;text-align: center;}
@@ -51,3 +52,17 @@ header.main-header .first-row {
 
 .content .smallImg {margin: 5px auto;}
 h3{font: normal 30px/30px "Clicker Script";margin-top: 0.4em;margin-bottom: 0.4em;color: #EF5D8D;}
+
+
+footer.main-footer {
+    border-top: 1px solid #7c7c7c;
+    position: relative;
+    background: #898989;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+    background-color: #000000;
+    background-color: transparent;
+    background-size: auto;
+    background-color: #898989;
+}
